@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: New SceneTemplate
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 617be9f2788a8294ea53fc97c38891ed, type: 3}
+  templateName: Level Creation Template
+  description: Bare Bones Template for creating levels with a properly setup forklift
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2800000, guid: 93ccb8dbd2a24ea4f818bbf753613ee1, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: d817fe1f176befe40b2349633410fa32, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 82f1e53e1f9babb43ace19545964d907, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: c3e554fa15d0ecd48b241ee7d240dc19, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 112000000, guid: 1d3288030e8d8ec4293f74f49ecd23e0, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 4890085278179872738, guid: d0e04b35b122b0c449c25dd6b65c3cc9, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 100006, guid: ddd9af145e7fd4f44bdb7ce87b542eec, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: f413fcae278d0a64294e7cc0eaead36a, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: ee148e281f3c41c5b4ff5f8a5afe5a6c, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2100000, guid: 3a473e1e7f16725468ad1fd67df9bd5d, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 2fd6421f253b4ef1a19526541f9ffc0c, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 8400000, guid: 1c7e9e6e305db1b458a379faf13d3305, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 2100000, guid: aa2b231b8effb424f889f19fa40cc15d, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 4610710702188659162, guid: 80e88f2580382ac4f8cd06d1d5746155, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 8900000, guid: 189cc9d56ed18284fa552a3d7dde7f27, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: 82d6e58b5597f074996298a8b1582e0b, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: e5ab8f555200b424f9a08445035360a0, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 51f5574de1481ab46afc227666724e31, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 1000011073349600, guid: 6705bd914fa08eb4992f4e2e178dcf28, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
+    instantiationMode: 1
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 0
